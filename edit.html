@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cone</title>
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <link
+      rel="shortcut icon"
+      href="assets/img/logo/logo.svg"
+      type="image/x-icon"
+    />
+  </head>
+  <body>
+    <!-- admin start -->
+    <div class="admin">
+      <input type="checkbox" id="burger" />
+      <label for="burger"></label>
+      <nav>
+        <h3>Админ</h3>
+        <a class="click" href="admin.html">Товары</a>
+        <a href="addtovar.html">Добавить товар</a>
+      </nav>
+      <div class="admin-menu">
+        <div class="profile-name">
+          <a href="admin.html">A</a>
+          <h3>Админ</h3>
+        </div>
+
+        <div class="admin-pages">
+          <a href="admin.html">Товары</a>
+          <a href="addtovar.html">Добавить товар</a>
+        </div>
+      </div>
+
+      <div class="edit">
+        <h2>Редактирование товара</h2>
+        <form method="POST" name="editPost">
+          <div class="edit-part">
+            <label for="name">Название</label>
+            <input type="text" name="name" />
+            <label for="img">URL картинки</label>
+            <input type="text" name="img" />
+            <label for="desc">Описание</label>
+            <input type="text" name="desc" />
+            <label for="articul">Артикул</label>
+            <input type="number" name="articul" />
+          </div>
+
+          <div class="edit-part">
+            <label for="color">Цвет</label>
+            <input type="text" name="color" />
+            <label for="material">Материал</label>
+            <input type="text" name="material" />
+            <label for="price">Цена</label>
+            <input type="text" name="price" />
+            <input type="submit" value="Редактировать" name="editPost" />
+          </div>
+        </form>
+      </div>
+    </div>
+    <!-- admin end -->
+  </body>
+</html>

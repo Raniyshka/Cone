@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 111.36 106.64">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: url(#_Безымянный_градиент_39);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: url(#_Безымянный_градиент_39-2);
+      }
+
+      .cls-3 {
+        fill: #fff;
+        stroke: url(#_Безымянный_градиент_34);
+      }
+
+      .cls-4 {
+        stroke: url(#_Безымянный_градиент_39-3);
+      }
+    </style>
+    <linearGradient id="_Безымянный_градиент_34" data-name="Безымянный градиент 34" x1="0" y1="53.32" x2="111.36" y2="53.32" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#223a97"/>
+      <stop offset=".07" stop-color="#26459c"/>
+      <stop offset=".2" stop-color="#3264ab"/>
+      <stop offset=".28" stop-color="#3b7cb7"/>
+      <stop offset=".67" stop-color="#9e1284"/>
+      <stop offset=".91" stop-color="#f3276c"/>
+      <stop offset="1" stop-color="#bf0a11"/>
+    </linearGradient>
+    <linearGradient id="_Безымянный_градиент_39" data-name="Безымянный градиент 39" x1="57.59" y1="38.62" x2="76.5" y2="38.62" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#223a97"/>
+      <stop offset=".06" stop-color="#26459c"/>
+      <stop offset=".18" stop-color="#3264ab"/>
+      <stop offset=".25" stop-color="#3b7cb7"/>
+      <stop offset=".49" stop-color="#9e1284"/>
+      <stop offset=".78" stop-color="#f3276c"/>
+      <stop offset="1" stop-color="#bf0a11"/>
+    </linearGradient>
+    <linearGradient id="_Безымянный_градиент_39-2" data-name="Безымянный градиент 39" x1="55.54" y1="34.48" x2="86.34" y2="34.48" gradientTransform="translate(.28 1.46) rotate(-3.02)" xlink:href="#_Безымянный_градиент_39"/>
+    <linearGradient id="_Безымянный_градиент_39-3" data-name="Безымянный градиент 39" x1="52.8" y1="29.37" x2="93.81" y2="29.37" gradientTransform="translate(1.34 3.91) rotate(-7.72)" xlink:href="#_Безымянный_градиент_39"/>
+  </defs>
+  <path class="cls-3" d="m17.33,1.09c-7.76.97-12.28,9.21-13.17,10.84-8.23,15,1.6,33.77,6.9,43.96,1.51,2.9,7.65,14.31,20.07,25.89,6.72,6.27,16.96,15.59,33.25,20.47,7.74,2.32,19.95,5.99,31.99.6,3.03-1.36,12.37-5.54,13.8-13.85,1.69-9.82-8.49-20.57-17.56-21.07-8.43-.47-10.24,8.22-20.07,9.03-10.03.83-18.28-7.18-26.97-15.66-7.39-7.21-15.1-14.72-13.8-23.18,1.02-6.65,6.58-7.14,7.53-13.55C40.83,14.16,28.44-.3,17.33,1.09Z"/>
+  <g>
+    <path class="cls-1" d="m57.62,30.68c1.63-.05,4.59.08,7.84,1.51,1.4.61,5.77,2.76,8.3,7.69,1.61,3.14,1.77,6.04,1.73,7.66"/>
+    <path class="cls-2" d="m56.87,19.43c2.71-.22,7.63-.26,13.15,1.84,2.37.9,9.84,4.09,14.48,12.07,2.95,5.07,3.5,9.88,3.58,12.57"/>
+    <path class="cls-4" d="m54.85,5.4c3.59-.59,10.15-1.13,17.81,1.48,3.29,1.12,13.69,5.17,21,16.68,4.64,7.31,6.03,14.47,6.5,18.49"/>
+  </g>
+</svg>
