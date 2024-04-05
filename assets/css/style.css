@@ -761,6 +761,10 @@ footer h3 {
     background-color: #94a0c9;
   }
 
+  .header-block{
+    padding: 20px 0;
+  }
+
   .admin-soderzanie, .dobavlenie, .edit{
     margin: 40px;
   }
